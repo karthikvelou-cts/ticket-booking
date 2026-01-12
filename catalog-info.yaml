@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Ticket Booking component
+  name: TicketBooking
   description: "Ticket booking component"
   annotations:
     expensetracker.io/appid: TicketBookingComponent
