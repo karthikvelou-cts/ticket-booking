@@ -5,7 +5,7 @@ metadata:
   description: "Ticket booking component"
   annotations:
     expensetracker.io/appid: TicketBookingComponent
-    github.com/project-slug: karthikvelou-cts/backstage
+    github.com/project-slug: karthikvelou-cts/ticket-booking
     backstage.io/techdocs-ref: dir:.
     flowsource/aws-pipelines: flowsource-sonartest-ci-pipeline, flowsource-demo-cd-pipeline
     flowsource/aws-repo-name: flowsource-sonartest
