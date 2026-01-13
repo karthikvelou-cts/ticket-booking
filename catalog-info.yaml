@@ -14,7 +14,7 @@ metadata:
     flowsource/aws-project-name: flowsource-sonartest-build-project
     flowsource/sonarqube-project-key: springboot-app-demo
     flowsource/github-repo-owner: karthikvelou-cts
-    flowsource/github-repo-name: mern-stack
+    flowsource/github-repo-name: ticket-booking
     flowsource/checkmarx-project-id: sonarscan-testing
     flowsource/blackduck-project-id: sonarscan-testing
     backstage.io/kubernetes-namespace: sonar-ns
