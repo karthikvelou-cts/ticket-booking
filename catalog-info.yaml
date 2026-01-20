@@ -8,10 +8,10 @@ metadata:
     github.com/project-slug: karthikvelou-cts/ticket-booking
     backstage.io/techdocs-ref: dir:.
     flowsource/aws-pipelines: flowsource-demo-v2
-    flowsource/aws-repo-name: flowsource-sonartest
+    flowsource/aws-repo-name: ticket-booking
     flowsource/aws-region: ap-southeast-2
     flowsource/durationInDays: '60'
-    flowsource/aws-project-name: flowsource-sonartest-build-project
+    flowsource/aws-project-name: flowsource-demo-v1
     flowsource/sonarqube-project-key: springboot-app-demo
     flowsource/github-repo-owner: karthikvelou-cts
     flowsource/github-repo-name: ticket-booking
